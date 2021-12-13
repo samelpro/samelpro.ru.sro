@@ -21,17 +21,16 @@
  	font-weight: bold;
  }
 		.menu:hover {
-		background: #B0C4DE;
+		text-shadow: 1px 1px 2px, 0 0 1em;
 		}
-			.menu:visited {
-			color: #091a42;
-			}
 .menu-position {
- 	margin-top: 200px;
- 	margin-left: 230px;
- 	margin-right: auto;
- 	background-color: #ffffff;
- }
+	margin-top: 200px;
+	background-color: #ffffff;
+	}
+.menu-position1 {
+	margin:0 auto;
+	width: 569px;
+	}
 .site-fon {
 	background-image: url(project015.jpg);
  	margin-top: 20px;
